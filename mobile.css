@@ -26,5 +26,6 @@
         color: #111;
         padding: 23px;
     }
-    
+    #showcase {
+        background: url(/img/showcase.jpg) no-repeat center center/cover;
 }
